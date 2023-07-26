@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/private-policy/</loc>
+    <loc>https://anavillegas99.github.io/halei-domino/posts/private-policy/</loc>
     <lastmod>2023-06-26T15:13:18+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://anavillegas99.github.io/halei-domino/posts/</loc>
     <lastmod>2023-06-26T15:13:18+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://anavillegas99.github.io/halei-domino/</loc>
     <lastmod>2023-06-26T15:13:18+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://anavillegas99.github.io/halei-domino/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://anavillegas99.github.io/halei-domino/tags/</loc>
   </url>
 </urlset>
